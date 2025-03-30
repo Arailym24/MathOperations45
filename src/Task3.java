@@ -13,7 +13,7 @@ public class Task3 {
     }
 
     public static void main(String[] args) {
-        int number = 29; // Number to check
+        int number = 29;
         if (isPrime(number, 2)) {
             System.out.println(number + " is a prime number");
         } else {
